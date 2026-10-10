@@ -1,0 +1,11 @@
+{
+  "org": "pypa",
+  "repo": "flit",
+  "versions": [
+    {
+      "commit": "75b1c909d587c1ff5e0fd5f3df1046f74ee249d4",
+      "tag": "4.1.0",
+      "parsed_at": "2026-10-10T23:16:57.939276+00:00"
+    }
+  ]
+}
