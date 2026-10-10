@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/pypa/flit/commit/75b1c909d587c1ff5e0fd5f3df1046f74ee249d4",
       "git:hexsha": "75b1c909d587c1ff5e0fd5f3df1046f74ee249d4",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "4.1.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "4.1.0",
+      "repolex:parsedAt": "2026-10-10T23:16:57.938679+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pypa/flit/commit/6c13620fff76178952510d5928421746c5fe3e80",
